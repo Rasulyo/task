@@ -5,6 +5,9 @@
       :key="product.id"
       :products_data='product'
     />
+    <h1>
+      Hello every body
+    </h1>
   </div>
 </template>
 
